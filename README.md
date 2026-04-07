@@ -1,7 +1,6 @@
 # Hi, I'm Seeam 👋
 
-## :briefcase: What I do
-I am a Product Manager at Scale AI, a $30B leading AI startup based in SF, where I am building AI platforms & agents for enterprises & frontier AI labs. I keep my [LinkedIn](https://www.linkedin.com/in/seeamshahidnoor) up to date. 
+:briefcase: I am a Product Manager at Scale AI, a $30B leading AI startup based in SF, where I am building AI platforms & agents for enterprises & frontier AI labs. I keep my [LinkedIn](https://www.linkedin.com/in/seeamshahidnoor) up to date. 
 
 ## :sparkles: Things I have built
 - My current role at Scale AI is very demanding & **all the coding I do is on the job**. So, there aren't any personal coding projects to display here. Here is [an example](https://docs.gp.scale.com/docs/capabilities/workflows/introduction-to-compass) of what I have built at Scale AI. 
