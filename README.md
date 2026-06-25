@@ -1,6 +1,6 @@
 # Hi, I'm Seeam 👋
 
-:briefcase: I am a Product Manager at Scale AI, a $30B leading AI startup based in SF, where I am building AI platforms & agents for enterprises & frontier AI labs. I keep my [LinkedIn](https://www.linkedin.com/in/seeamshahidnoor) up to date. 
+:briefcase: I don't update my Github these days. If you want to know more about my work, I keep my [LinkedIn](https://www.linkedin.com/in/seeamshahidnoor) & [personal website](http://seeam.me/) up to date.
 
 ## :sparkles: Things I have built
 - My current role very demanding & all the coding I do on the job is private. So, there aren't any recent coding projects to display here. Here is [an example](https://docs.gp.scale.com/docs/capabilities/workflows/introduction-to-compass) of what I have built at Scale AI, **an agentic workflow orchestrator platform** that I took from 0 to 1. 
